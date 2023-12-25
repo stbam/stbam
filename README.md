@@ -29,6 +29,9 @@
 ![Figma](https://img.icons8.com/color/48/000000/figma.png)
 ![popSQL](https://img.icons8.com/color/48/000000/sql.png)
 
+### **Technical Skills:**
+![Microsoft Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)
+![Google Sheets](https://img.icons8.com/color/48/000000/google-sheets-2020.png)
 
 
 ## **LinkedIn:**
