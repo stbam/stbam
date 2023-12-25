@@ -31,7 +31,8 @@
 
 ### **Technical Skills:**
 ![Microsoft Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)
-![Google Sheets](https://img.icons8.com/color/48/000000/google-sheets-2020.png)
+![Google Sheets](https://img.icons8.com/color/48/000000/google-sheets.png)
+
 
 
 ## **LinkedIn:**
