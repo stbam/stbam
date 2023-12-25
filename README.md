@@ -24,7 +24,7 @@
 ### **Developer Tools:**
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-![Vim](https://img.icons8.com/color/48/000000/vim.png)
+![Vim](https://img.icons8.com/color/48/000000/vim-editor.png)
 ![Terminal](https://img.icons8.com/color/48/000000/console.png)
 ![Figma](https://img.icons8.com/color/48/000000/figma.png)
 ![popSQL](https://img.icons8.com/color/48/000000/sql.png)
