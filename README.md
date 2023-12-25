@@ -2,7 +2,8 @@
 👋 Hi! My name is Stanislav Rushnitski, and I'm a CS student at Cuny Hunter College. Visit my portfolio website to learn more!
 
 ## LinkedIn
-[LinkedIn]([https://www.linkedin.com/in/gholtzap/](https://www.linkedin.com/in/stanislav-rushnitski-390455175/))
+[LinkedIn]((https://www.linkedin.com/in/stanislav-rushnitski-390455175/))
+
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Stbam&label=Profile%20Views&color=0&icon=8&pretty=false" />
