@@ -23,11 +23,12 @@
 
 ### **Developer Tools:**
 ![Git](https://img.icons8.com/color/48/000000/git.png)
-- [VS Code](https://code.visualstudio.com/)
-- [Vim](https://www.vim.org/)
-- Terminal (Assuming you're referring to a command-line terminal, no specific link needed)
-- [Figma](https://www.figma.com/)
-- [popSQL](https://popsql.com/)
+![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+![Vim](https://img.icons8.com/color/48/000000/vim.png)
+![Terminal](https://img.icons8.com/color/48/000000/console.png)
+![Figma](https://img.icons8.com/color/48/000000/figma.png)
+![popSQL](https://img.icons8.com/color/48/000000/sql.png)
+
 
 
 ## **LinkedIn:**
