@@ -47,6 +47,7 @@
 ### **Currently Working On:**
 - A personal Blog for my Website using MongoDb, React, NodeJs, Express!
 - A CV Generator
+- Updating my personal website!
 
 <!--
 
