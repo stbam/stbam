@@ -28,7 +28,7 @@
 ![Figma](https://img.icons8.com/color/48/000000/figma.png)
 ![popSQL](https://img.icons8.com/color/48/000000/sql.png)
 
-![Vim](https://img.icons8.com/color/48/000000/vim.png)
+
 
 ### **Technical Skills:**
 ![Microsoft Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)
