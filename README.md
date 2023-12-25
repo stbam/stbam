@@ -21,6 +21,14 @@
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### **Developer Tools:**
+- [Git](https://git-scm.com/)
+- [VS Code](https://code.visualstudio.com/)
+- [Vim](https://www.vim.org/)
+- Terminal (Assuming you're referring to a command-line terminal, no specific link needed)
+- [Figma](https://www.figma.com/)
+- [popSQL](https://popsql.com/)
+
 
 ## **LinkedIn:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/stanislav-rushnitski-390455175/)
