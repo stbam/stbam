@@ -10,6 +10,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stbam)](https://github.com/stbam/github-readme-stats)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gholtzap/)
 
 
 <!--
