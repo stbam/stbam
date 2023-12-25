@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Stbam&label=Profile%20Views&color=0&icon=8&pretty=false" />
+</a>
+
 <!--
 **stbam/stbam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
