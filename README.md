@@ -4,6 +4,9 @@
 ## LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/stanislav-rushnitski-390455175/)
 
+![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffd534)
+
+
 ## **Tech I Use:**
 ### **Languages:**
 - C++
