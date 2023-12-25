@@ -8,7 +8,10 @@
 
 ## **Tech I Use:**
 ### **Languages:**
-- ![C++ Badge](https://img.shields.io/badge/c%2B%2B-005993.svg?style=for-the-badge&logo=c%2B%2B)
+![C++ Badge](https://img.shields.io/badge/c%2B%2B-005993.svg?style=for-the-badge&logo=c%2B%2B)
+![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffd534)
+
+
 - Javascript
 
 ### **Libraries:**
