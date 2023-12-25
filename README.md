@@ -1,4 +1,4 @@
-##About Me:
+## **About Me:**
 👋 Hi! My name is Stanislav Rushnitski, and I'm a CS student at Cuny Hunter College. Visit my portfolio website to learn more!
 
 ## LinkedIn:
