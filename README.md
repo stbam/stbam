@@ -4,6 +4,8 @@
 ## LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/stanislav-rushnitski-390455175/)
 
+## **Tech I Use:**
+dfaf safdsa 
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Stbam&label=Profile%20Views&color=0&icon=8&pretty=false" />
