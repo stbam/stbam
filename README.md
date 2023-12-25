@@ -1,10 +1,11 @@
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Stbam&label=Profile%20Views&color=0&icon=8&pretty=false" />
+</a>
+
 ## **About Me:**
 👋 Hi! My name is Stanislav Rushnitski, and I'm a CS student at Cuny Hunter College. Visit [my portfolio website](https://stbam.github.io) to learn more!
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Stbam&label=Profile%20Views&color=0&icon=8&pretty=false" />
-</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stbam)](https://github.com/stbam/github-readme-stats)
 
