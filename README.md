@@ -22,9 +22,6 @@
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## **About Me:**
-👋 Hi! My name is Stanislav Rushnitski, and I'm a CS student at Cuny Hunter College. Visit my portfolio website to learn more!
-
 ## **LinkedIn:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/stanislav-rushnitski-390455175/)
 
