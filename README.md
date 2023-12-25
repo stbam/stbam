@@ -22,7 +22,7 @@
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Developer Tools:**
-- [Git](https://git-scm.com/)
+![Git](https://img.icons8.com/color/48/000000/git.png)
 - [VS Code](https://code.visualstudio.com/)
 - [Vim](https://www.vim.org/)
 - Terminal (Assuming you're referring to a command-line terminal, no specific link needed)
