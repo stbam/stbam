@@ -5,29 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/stanislav-rushnitski-390455175/)
 
 ## **Tech I Use:**
-
-### Languages:
--C++
--Javascript
-
-### Libraries:
--React
--NodeJS
--NPM
-
-### Data:
--MongoDb
--MySQL
-
-
-
-## **About Me:**
-👋 Hi! My name is Stanislav Rushnitski, and I'm a CS student at Cuny Hunter College. Visit my portfolio website to learn more!
-
-## **LinkedIn:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/stanislav-rushnitski-390455175/)
-
-## **Tech I Use:**
 ### **Languages:**
 - C++
 - Javascript
@@ -42,6 +19,11 @@
 - MySQL
 
 
+## **About Me:**
+👋 Hi! My name is Stanislav Rushnitski, and I'm a CS student at Cuny Hunter College. Visit my portfolio website to learn more!
+
+## **LinkedIn:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/stanislav-rushnitski-390455175/)
 
 
 
