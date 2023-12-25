@@ -44,6 +44,9 @@
 ![Google Sheets](https://img.icons8.com/color/48/000000/google-sheets.png)
 
 
+### **Currently Working On:**
+-A personal Blog for my Website using MongoDb,React,NodeJs,Express!
+-A Cv Generator
 
 <!--
 
